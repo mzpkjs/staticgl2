@@ -1,0 +1,2 @@
+declare function webglGetCurrentWebGL2Context(): WebGL2RenderingContext
+export default webglGetCurrentWebGL2Context

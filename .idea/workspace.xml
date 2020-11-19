@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6fc1856e-1f30-4410-a8d0-b2eed3965edd" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="tsconfig.json" />
+        <option value="JavaScript File" />
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1iSjr9tDej2x2yjXgAx3l6sAow6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="HTML" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/core" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Node.js.index.js">
+    <configuration name="index.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/scripts/index.js" working-dir="$PROJECT_DIR$/scripts">
+      <method v="2" />
+    </configuration>
+    <configuration name="compile" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="compile" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.start" />
+        <item itemvalue="npm.compile" />
+        <item itemvalue="Node.js.index.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6fc1856e-1f30-4410-a8d0-b2eed3965edd" name="Default Changelist" comment="" />
+      <created>1601908084112</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601908084112</updated>
+      <workItem from="1601908085229" duration="49664000" />
+      <workItem from="1601960949146" duration="18542000" />
+      <workItem from="1602249285164" duration="795000" />
+      <workItem from="1602326012310" duration="500000" />
+      <workItem from="1602483305276" duration="563000" />
+      <workItem from="1602570883741" duration="532000" />
+      <workItem from="1602590149886" duration="553000" />
+      <workItem from="1602594369565" duration="534000" />
+      <workItem from="1602595127977" duration="439000" />
+      <workItem from="1602596588928" duration="286000" />
+      <workItem from="1602597039844" duration="143000" />
+      <workItem from="1602598081815" duration="128000" />
+      <workItem from="1602599222152" duration="310000" />
+      <workItem from="1602658887345" duration="500000" />
+      <workItem from="1602663558376" duration="515000" />
+      <workItem from="1602744533552" duration="565000" />
+      <workItem from="1602825466698" duration="562000" />
+      <workItem from="1603089146067" duration="1381000" />
+      <workItem from="1603110637470" duration="549000" />
+      <workItem from="1603181989797" duration="535000" />
+      <workItem from="1603261655307" duration="1133000" />
+      <workItem from="1603350023776" duration="592000" />
+      <workItem from="1603439522371" duration="609000" />
+      <workItem from="1603462429073" duration="594000" />
+      <workItem from="1603701491669" duration="152000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/1/glUniform3fv.js.map" />
+        <option value="$PROJECT_DIR$/1/glUniform3uiv.js" />
+        <option value="$PROJECT_DIR$/1/glUniformMatrix3x2fv.d.ts" />
+        <option value="$PROJECT_DIR$/1/glUniformMatrix4x2fv.d.ts" />
+        <option value="$PROJECT_DIR$/1/glUniform3uiv.d.ts.map" />
+        <option value="$PROJECT_DIR$/1/glUniform4i.d.ts" />
+        <option value="$PROJECT_DIR$/1/glUniform4iv.js.map" />
+        <option value="$PROJECT_DIR$/1/glUniform2ui.js.map" />
+        <option value="$PROJECT_DIR$/1/glUniform2fv.js" />
+        <option value="$PROJECT_DIR$/1/glUniform1fv.d.ts.map" />
+        <option value="$PROJECT_DIR$/1/glUniform2ui.d.ts.map" />
+        <option value="$PROJECT_DIR$/1/glUniform2fv.d.ts.map" />
+        <option value="$PROJECT_DIR$/1/glUniform2f.d.ts" />
+        <option value="$PROJECT_DIR$/1/glUniform1ui.d.ts.map" />
+        <option value="$PROJECT_DIR$/1/glUniformMatrix4x3fv.js" />
+        <option value="$PROJECT_DIR$/1/glUniform3f.js.map" />
+        <option value="$PROJECT_DIR$/1/glUniform4iv.d.ts" />
+        <option value="$PROJECT_DIR$/1/glUniform3iv.js" />
+        <option value="$PROJECT_DIR$/1/glUniform3ui.js" />
+        <option value="$PROJECT_DIR$/1/glUniformMatrix2x3fv.js" />
+        <option value="$PROJECT_DIR$/1/glUniformMatrix2x4fv.js.map" />
+        <option value="$PROJECT_DIR$/1/glUniform2iv.d.ts" />
+        <option value="$PROJECT_DIR$/1/glUniform4uiv.js" />
+        <option value="$PROJECT_DIR$/1/glUniform3fv.js" />
+        <option value="$PROJECT_DIR$/1/glUniform2uiv.d.ts" />
+        <option value="$PROJECT_DIR$/1/glUniformMatrix4fv.d.ts" />
+        <option value="$PROJECT_DIR$/1/glUniformMatrix4x2fv.d.ts.map" />
+        <option value="$PROJECT_DIR$/1/glUniformMatrix3x4fv.js.map" />
+        <option value="$PROJECT_DIR$/1/glUniformMatrix2x4fv.js" />
+        <option value="$PROJECT_DIR$/1/glUniform4f.d.ts.map" />
+        <option value="$PROJECT_DIR$/1/glUniform4fv.js" />
+        <option value="$PROJECT_DIR$/1/glUniform4iv.d.ts.map" />
+        <option value="$PROJECT_DIR$/1/glUniformMatrix3fv.js" />
+        <option value="$PROJECT_DIR$/1/glUniform1uiv.js" />
+        <option value="$PROJECT_DIR$/1/glUniformMatrix3x4fv.js" />
+        <option value="$PROJECT_DIR$/1/glUniform4fv.d.ts.map" />
+        <option value="$PROJECT_DIR$/1/glUniform4ui.js.map" />
+        <option value="$PROJECT_DIR$/1/glUniform2f.d.ts.map" />
+        <option value="$PROJECT_DIR$/1/glUniform4f.js" />
+        <option value="$PROJECT_DIR$/1/glUniform3f.js" />
+        <option value="$PROJECT_DIR$/1/glUniform2f.js" />
+        <option value="$PROJECT_DIR$/1/glUniform1f.js" />
+        <option value="$PROJECT_DIR$/1/glUniform4ui.d.ts" />
+        <option value="$PROJECT_DIR$/1/glUniform4i.d.ts.map" />
+        <option value="$PROJECT_DIR$/1/glUniform2ui.d.ts" />
+        <option value="$PROJECT_DIR$/1/glUniformMatrix3fv.js.map" />
+        <option value="$PROJECT_DIR$/1/glUniform2fv.d.ts" />
+        <option value="$PROJECT_DIR$/1/glUniform1i.d.ts.map" />
+        <option value="$PROJECT_DIR$/1/glUniform1iv.js.map" />
+        <option value="$PROJECT_DIR$/1/glUniformMatrix3fv.d.ts.map" />
+        <option value="$PROJECT_DIR$/1/glUniform2uiv.d.ts.map" />
+        <option value="$PROJECT_DIR$/1/glUniform2i.d.ts.map" />
+        <option value="$PROJECT_DIR$/1/glUniformMatrix4fv.js.map" />
+        <option value="$PROJECT_DIR$/1/glUniformMatrix3x4fv.d.ts" />
+        <option value="$PROJECT_DIR$/1/glUniform2uiv.js" />
+        <option value="$PROJECT_DIR$/1/glUniform4i.js.map" />
+        <option value="$PROJECT_DIR$/1/glUniform1i.js.map" />
+        <option value="$PROJECT_DIR$/1/glUniformMatrix4x2fv.js" />
+        <option value="$PROJECT_DIR$/1/glUniform3f.d.ts" />
+        <option value="$PROJECT_DIR$/1/glUniform4uiv.d.ts" />
+        <option value="$PROJECT_DIR$/1/glUniform2iv.js" />
+        <option value="$PROJECT_DIR$/1/glUniform2ui.js" />
+        <option value="$PROJECT_DIR$/1/glUniform4ui.d.ts.map" />
+        <option value="$PROJECT_DIR$/1/glUniform1fv.js.map" />
+        <option value="$PROJECT_DIR$/1/glUniform1iv.d.ts.map" />
+        <option value="$PROJECT_DIR$/1/glUniform4uiv.d.ts.map" />
+        <option value="$PROJECT_DIR$/1/glUniformMatrix2fv.d.ts" />
+        <option value="$PROJECT_DIR$/1/glUniform1fv.d.ts" />
+        <option value="$PROJECT_DIR$/1/glUniform2iv.d.ts.map" />
+        <option value="$PROJECT_DIR$/1/glUniform1f.js.map" />
+        <option value="$PROJECT_DIR$/1/glUniformMatrix4x2fv.js.map" />
+        <option value="$PROJECT_DIR$/1/glUniformMatrix2x3fv.d.ts" />
+        <option value="$PROJECT_DIR$/1/glUniform2uiv.js.map" />
+        <option value="$PROJECT_DIR$/1/glUniformMatrix4x3fv.js.map" />
+        <option value="$PROJECT_DIR$/1/glUniform1ui.js.map" />
+        <option value="$PROJECT_DIR$/1/glUniformMatrix2fv.js.map" />
+        <option value="$PROJECT_DIR$/1/glUniformMatrix2fv.js" />
+        <option value="$PROJECT_DIR$/1/glUniformMatrix4x3fv.d.ts.map" />
+        <option value="$PROJECT_DIR$/1/glUniformMatrix3x4fv.d.ts.map" />
+        <option value="$PROJECT_DIR$/1/glUniform3i.js.map" />
+        <option value="$PROJECT_DIR$/1/glUniform3i.d.ts" />
+        <option value="$PROJECT_DIR$/1/glUniformMatrix3x2fv.js.map" />
+        <option value="$PROJECT_DIR$/1/glUniform3iv.d.ts" />
+        <option value="$PROJECT_DIR$/1/glUniform3ui.js.map" />
+        <option value="$PROJECT_DIR$/1/glUniform4i.js" />
+        <option value="$PROJECT_DIR$/1/glUniform3ui.d.ts.map" />
+        <option value="$PROJECT_DIR$/1/glUniformMatrix4x3fv.d.ts" />
+        <option value="$PROJECT_DIR$/1/glUniform3i.js" />
+        <option value="$PROJECT_DIR$/1/glUniformMatrix2fv.d.ts.map" />
+        <option value="$PROJECT_DIR$/1/glUniform2i.js" />
+        <option value="$PROJECT_DIR$/1/glUniform1i.js" />
+        <option value="$PROJECT_DIR$/1/glUniform1i.d.ts" />
+        <option value="$PROJECT_DIR$/1/glUniform1f.d.ts" />
+        <option value="$PROJECT_DIR$/1/glUniform1iv.d.ts" />
+        <option value="$PROJECT_DIR$/1/glUniform4f.d.ts" />
+        <option value="$PROJECT_DIR$/1/glUniform2f.js.map" />
+        <option value="$PROJECT_DIR$/1/glUniformMatrix2x4fv.d.ts.map" />
+        <option value="$PROJECT_DIR$/1/glUniformMatrix2x3fv.js.map" />
+        <option value="$PROJECT_DIR$/1/glUniform1uiv.d.ts.map" />
+        <option value="$PROJECT_DIR$/1/glUniform3f.d.ts.map" />
+        <option value="$PROJECT_DIR$/1/glUniform3uiv.js.map" />
+        <option value="$PROJECT_DIR$/1/glUniform4iv.js" />
+        <option value="$PROJECT_DIR$/1/glUniform4ui.js" />
+        <option value="$PROJECT_DIR$/1/glUniform4fv.d.ts" />
+        <option value="$PROJECT_DIR$/1/glUniform1ui.js" />
+        <option value="$PROJECT_DIR$/1/glUniformMatrix3x2fv.d.ts.map" />
+        <option value="$PROJECT_DIR$/1/glUniform1uiv.d.ts" />
+        <option value="$PROJECT_DIR$/1/glUniform3ui.d.ts" />
+        <option value="$PROJECT_DIR$/1/glUniformMatrix2x3fv.d.ts.map" />
+        <option value="$PROJECT_DIR$/1/glUniform1f.d.ts.map" />
+        <option value="$PROJECT_DIR$/1/glUniform1uiv.js.map" />
+        <option value="$PROJECT_DIR$/1/glUniform1fv.js" />
+        <option value="$PROJECT_DIR$/1/glUniform3fv.d.ts" />
+        <option value="$PROJECT_DIR$/1/glUniform2i.d.ts" />
+        <option value="$PROJECT_DIR$/1/glUniform3iv.d.ts.map" />
+        <option value="$PROJECT_DIR$/1/glUniform1ui.d.ts" />
+        <option value="$PROJECT_DIR$/1/glUniform3i.d.ts.map" />
+        <option value="$PROJECT_DIR$/1/glUniform3fv.d.ts.map" />
+        <option value="$PROJECT_DIR$/1/glUniform1iv.js" />
+        <option value="$PROJECT_DIR$/1/glUniform4uiv.js.map" />
+        <option value="$PROJECT_DIR$/1/glUniformMatrix2x4fv.d.ts" />
+        <option value="$PROJECT_DIR$/1/glUniformMatrix4fv.js" />
+        <option value="$PROJECT_DIR$/1/glUniform2i.js.map" />
+        <option value="$PROJECT_DIR$/1/glUniformMatrix3x2fv.js" />
+        <option value="$PROJECT_DIR$/1/glUniform4fv.js.map" />
+        <option value="$PROJECT_DIR$/1/glUniform2iv.js.map" />
+        <option value="$PROJECT_DIR$/1/glUniform2fv.js.map" />
+        <option value="$PROJECT_DIR$/1/glUniformMatrix4fv.d.ts.map" />
+        <option value="$PROJECT_DIR$/1/glUniform4f.js.map" />
+        <option value="$PROJECT_DIR$/1/glUniform3uiv.d.ts" />
+        <option value="$PROJECT_DIR$/1/glUniformMatrix3fv.d.ts" />
+        <option value="$PROJECT_DIR$/1/glUniform3iv.js.map" />
+      </list>
+    </option>
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.json" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="319" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601963274660">
+      <screen x="0" y="23" width="1680" height="975" />
+    </state>
+    <state x="552" y="319" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1680.975@0.23.1680.975" timestamp="1601963274660" />
+    <state width="1899" height="339" key="GridCell.Tab.0.bottom" timestamp="1602252005064">
+      <screen x="-1920" y="-157" width="1920" height="1057" />
+    </state>
+    <state width="1899" height="339" key="GridCell.Tab.0.bottom/0.23.1440.825/-1920.-157.1920.1057@-1920.-157.1920.1057" timestamp="1602252005064" />
+    <state width="1659" height="262" key="GridCell.Tab.0.bottom/0.23.1680.975@0.23.1680.975" timestamp="1601963715638" />
+    <state width="1899" height="339" key="GridCell.Tab.0.center" timestamp="1602252005063">
+      <screen x="-1920" y="-157" width="1920" height="1057" />
+    </state>
+    <state width="1899" height="339" key="GridCell.Tab.0.center/0.23.1440.825/-1920.-157.1920.1057@-1920.-157.1920.1057" timestamp="1602252005063" />
+    <state width="1659" height="262" key="GridCell.Tab.0.center/0.23.1680.975@0.23.1680.975" timestamp="1601963715637" />
+    <state width="1899" height="339" key="GridCell.Tab.0.left" timestamp="1602252005063">
+      <screen x="-1920" y="-157" width="1920" height="1057" />
+    </state>
+    <state width="1899" height="339" key="GridCell.Tab.0.left/0.23.1440.825/-1920.-157.1920.1057@-1920.-157.1920.1057" timestamp="1602252005063" />
+    <state width="1659" height="262" key="GridCell.Tab.0.left/0.23.1680.975@0.23.1680.975" timestamp="1601963715636" />
+    <state width="1899" height="339" key="GridCell.Tab.0.right" timestamp="1602252005063">
+      <screen x="-1920" y="-157" width="1920" height="1057" />
+    </state>
+    <state width="1899" height="339" key="GridCell.Tab.0.right/0.23.1440.825/-1920.-157.1920.1057@-1920.-157.1920.1057" timestamp="1602252005063" />
+    <state width="1659" height="262" key="GridCell.Tab.0.right/0.23.1680.975@0.23.1680.975" timestamp="1601963715637" />
+    <state width="500" height="445" key="SwitcherDM" timestamp="1601976318968">
+      <screen x="-1920" y="-157" width="1920" height="1057" />
+    </state>
+    <state width="500" height="445" key="SwitcherDM/0.23.1440.825/-1920.-157.1920.1057@-1920.-157.1920.1057" timestamp="1601976318968" />
+    <state x="-1820" y="-57" width="1720" height="857" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1601967799901">
+      <screen x="-1920" y="-157" width="1920" height="1057" />
+    </state>
+    <state x="-1820" y="-57" width="1720" height="857" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.23.1440.825/-1920.-157.1920.1057@-1920.-157.1920.1057" timestamp="1601967799901" />
+    <state x="-1343" y="75" width="766" height="733" key="search.everywhere.popup" timestamp="1601981164385">
+      <screen x="-1920" y="-157" width="1920" height="1057" />
+    </state>
+    <state x="-1343" y="75" width="766" height="733" key="search.everywhere.popup/0.23.1440.825/-1920.-157.1920.1057@-1920.-157.1920.1057" timestamp="1601981164385" />
+    <state x="505" y="237" width="670" height="676" key="search.everywhere.popup/0.23.1680.975@0.23.1680.975" timestamp="1601961938109" />
+  </component>
+</project>
